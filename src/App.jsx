@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import ComboBox from './ComboBox'
-
+import First from './First'
 function App() {
   
 
@@ -9,6 +9,7 @@ function App() {
     <>
       <h1>Hello</h1>
       <ComboBox />
+      <First />
 
     </>
   )
